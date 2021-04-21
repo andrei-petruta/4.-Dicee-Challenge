@@ -1,0 +1,49 @@
+/******** ELEMENT SELECTORS *********/
+body {
+  background-color: #194350;
+}
+
+footer {
+  margin-top: 10px;
+}
+
+h1 {
+  font-family: "Orelega One", cursive;
+  font-size: 7em;
+  color: #9dbeb9;
+  text-shadow: 10px 0 #232931;
+  margin: 30px;
+}
+
+img {
+  width: 60%;
+  padding: 40px 20px;
+}
+
+p {
+  font-family: "Lobster", cursive;
+  font-size: 2em;
+  color: #ff8882;
+  text-shadow: 2px 0 #232931;
+}
+
+/******** CLASS SELECTORS *********/
+.container {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+/******** ID SELECTORS *********/
+#copyright {
+  font-family: "Lobster", cursive;
+  font-size: 0.75em;
+  color: #ffc2b4;
+  text-align: center;
+  text-shadow: 0 0;
+}
